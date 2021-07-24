@@ -65,19 +65,6 @@ Este compendio digital se  ha elaborado con base en la Enciclopedia “Sexualida
 
 ---
 
-### Tomo I: La Sexualidad Humana
-
-[01. Fundamentos](01.pdf)
-
-
-### Tomo II: La Reproducción Humana
-
-
-### Tomo III: Problemática de la Sexualidad
-
-### Tomo IV: Temas Complementarios
-
-### Anexos
 
 
 
