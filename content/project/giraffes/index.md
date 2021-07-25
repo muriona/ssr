@@ -14,13 +14,13 @@ title: Salud Sexual y Reproductiva
 
 ## Presentación
 
-Se pone a disposición de la  comunidad educativa boliviana, este compendio digital “Salud Sexual y Reproductiva”,  segunda edición actualizada, en forma gratuita,  que trata temas importantes relacionados con la salud sexual y reproductiva y temas complementarios.
-	
-El objetivo principal  es contribuir con la formación integral de los estudiantes, brindándoles  los conocimientos necesarios  que les permitan desarrollar hábitos, valores y actitudes necesarios para comprender su sexualidad y capacidad reproductiva    y   manejarlas con responsabilidad.
-	
-Se han incluido consejos prácticos médicos,  producto de la experiencia profesional de la autora,  así como datos de más de 60 investigaciones realizados por ella y colaboradores.
+Se pone a disposición de la comunidad educativa boliviana, este compendio digital "**Salud Sexual y Reproductiva**", que analizará los conocimientos más relevantes de los asuntos relacionados con la salud sexual y reproductiva y temas complementarios.
 
-Este compendio digital se  ha elaborado con base en la Enciclopedia “Sexualidad  y   Reproducción  Humana:   Visión Médica”   que mereció 2 Resoluciones Ministeriales:   de Salud como “Útil para la salud” y de Educación como: “Texto  oficial de apoyo y consulta, destinado a todos los ciclos y niveles del sistema educativo nacional”.
+El objetivo principal es contribuir con la formación integral de los estudiantes, brindándoles los conocimientos necesarios que les permitan desarrollar hábitos, valores y actitudes necesarios para comprender su sexualidad y capacidad reproductiva y manejarlas con responsabilidad.
+
+Se han incluido consejos prácticos médicos, producto de la experiencia profesional de la autora así como datos de más de 60 investigaciones realizados por ella y colaboradores.
+
+Este libro digital es un compendio (síntesis) de la Enciclopedia "Sexualidad y Reproducción Humana: Visión Médica", que mereció 2 Resoluciones Ministeriales: de Salud como "Útil para la salud" y de Educación como: "Texto oficial de apoyo y consulta, destinado a todos los ciclos y niveles del sistema educativo nacional".
 
 <div class="panelset">
   <div class="panel">
@@ -63,10 +63,4 @@ Este compendio digital se  ha elaborado con base en la Enciclopedia “Sexualida
   </div>
 </div>
 
----
-
-
-
-
-
-
+------------------------------------------------------------------------
