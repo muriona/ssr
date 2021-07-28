@@ -31,28 +31,22 @@ Este libro digital es un compendio (síntesis) de la Enciclopedia "Sexualidad y 
   <div class="panel">
     <div class="panel-name">Tomo II: La Reproducción Humana</div>
     <!-- Panel content -->
-    <p> 02. Fundamentos</p>
-    <p> 03. Fundamentos</p>
-    <p> 04. Fundamentos</p>
+    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1kkWfK1zrQ8ockcLX5_q9HcfL5fTf1Hji&amp;usp#list" width="100%" height="300" frameborder="0"></iframe></p>
   </div>
   <div class="panel">
     <div class="panel-name">Tomo III: Problemática de la Sexualidad</div>
     <!-- Panel content -->
-    <p> 06. Fundamentos</p>
-    <p> 07. Fundamentos</p>
-    <p> 08. Fundamentos</p>
+    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1Yc-hBxTYh_DS-uvqopwQF7KCWYBRQiVQ&amp;usp#list" width="100%" height="300" frameborder="0"></iframe></p>
   </div>
   <div class="panel">
     <div class="panel-name">Tomo IV: Temas Complementarios</div>
     <!-- Panel content -->
-    <p>Team 🥚 FTW!</p>
+    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1wp2k9CP0eDxiQrLKvY3xImddpq8f9V88&amp;usp#list" width="100%" height="300" frameborder="0"></iframe></p>
   </div>
   <div class="panel">
     <div class="panel-name">Anexos</div>
     <!-- Panel content -->
-    <a href="01.pdf">01. Fundamentos</a>
-    <p> 02. Fundamentos</p>
-    <p> 03. Fundamentos</p>
+    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1ag81mHF3fA2SZJeoQExket8Mt3Yp9Gbo&amp;usp#list" width="100%" height="300" frameborder="0"></iframe></p>
   </div>
 </div>
 
