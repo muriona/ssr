@@ -4,7 +4,7 @@ description: Para contactarme, enviéme un mensaje
 draft: false
 formspree_form_id: gracielaruthmaldonado@hotmail.com
 layout: split-right
-name: Contact Us Form
+name: Formulario
 show_poweredby_formspree: true
 show_social_links: false
 submit_button_label: Enviar

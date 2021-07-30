@@ -8,6 +8,8 @@ title: Agradecimientos
 
 Agradezco a todos los que contribuyeron con este proyecto, tanto de forma técnica como creativa:
 
-+ Peter Maldonado Fernandez
-+ Luis Taja Maldonado
-+ Mauricio Uriona Maldonado
+#### Peter Maldonado Fernandez
+
+#### Luiz Alberto Taja Maldonado
+
+#### Mauricio Uriona Maldonado
