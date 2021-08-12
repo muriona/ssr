@@ -1,20 +1,20 @@
 ---
-title: "Salud Sexual y Reproductiva"
-author: "Ruth Maldonado Ballón"
-date: '2021-07-21'
-draft: no
-excerpt: Se analizan temas relacionados con la salud sexual y reproductiva y otros
-  complementarios. Se incluyen datos, conclusiones y recomendaciones obtenidos en
-  más de 60 investigaciones efectuadas por la autora y colaboradores
+author: Ruth Maldonado Ballón
+categories:
+- Libros
+date: "2021-07-21"
+draft: false
+excerpt: compendio digital “Salud Sexual y Reproductiva”,  segunda edición actualizada, en forma gratuita,  que trata temas importantes relacionados con la salud sexual y reproductiva y temas complementarios 
 layout: single-sidebar
 subtitle: Compendio Virtual - 2a Edición
-tags: hugo-site
-categories: Libros
+tags:
+- hugo-site
+title: Salud Sexual y Reproductiva
 ---
 
 ## Presentación
 
-Se pone a disposición de la comunidad educativa boliviana, este compendio virtual "**Salud Sexual y Reproductiva**", que analiza los conocimientos más relevantes de los temas relacionados con la salud sexual y reproductiva y otros complementarios.
+Se pone a disposición de la comunidad educativa boliviana, este compendio digital "**Salud Sexual y Reproductiva**", que analizará los conocimientos más relevantes de los asuntos relacionados con la salud sexual y reproductiva y temas complementarios.
 
 El objetivo principal es contribuir con la formación integral de los estudiantes, brindándoles los conocimientos necesarios que les permitan desarrollar hábitos, valores y actitudes necesarios para comprender su sexualidad y capacidad reproductiva y manejarlas con responsabilidad.
 

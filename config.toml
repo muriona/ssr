@@ -29,8 +29,8 @@ enableEmoji = true
     
 [params]
   orgName = "RMB"
-  orgLocal = "La Paz - Bolivia"
-  description = "Página web personal de la Dra. Ruth Maldonado Ballón"
+  orgLocal = "Bolivia"
+  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["project", "talk"]
