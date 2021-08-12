@@ -6,7 +6,7 @@ show_title_as_headline: true
 title: Agradecimientos
 ---
 
-Agradezco a todos los que contribuyeron con este proyecto, tanto de forma técnica como creativa:
+Agradezco a las siguientes personas que contribuyeron con los proyectos de los libros virtuales, tanto de forma técnica como creativa:
 
 #### Peter Maldonado Fernandez
 

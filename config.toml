@@ -1,7 +1,7 @@
 baseURL = "https://ruthmaldonadoballon.netlify.app/"
 theme = "hugo-apero"
 languageCode = "es"
-title = "Página Personal"
+title = "Ruth Maldonado Ballón"
 author = "Ruth Maldonado Ballón"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = "RMB"
-  orgLocal = "Bolivia"
+  orgLocal = "La Paz, Estado Plurinacional de Bolivia"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
