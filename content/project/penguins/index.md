@@ -4,7 +4,7 @@ categories:
 - Libros
 date: "2021-07-21"
 draft: false
-excerpt: De Nuestra Fauna Selvática - 90 animales del oriente y del chaco boliviano, descritos  y estudiados en su  medio ambiente por el autor, tomando en cuenta los nombres comunes con los que son conocidos en diferentes lugares.
+excerpt: De Nuestra Fauna Selvática - 90+ animales del oriente y del chaco boliviano, descritos  y estudiados en su  medio ambiente por el autor, tomando en cuenta los nombres comunes con los que son conocidos en diferentes lugares.
  
 layout: single-sidebar
 subtitle: Libro Virtual
