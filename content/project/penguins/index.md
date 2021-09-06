@@ -28,22 +28,22 @@ Este libro virtual cuenta con el AVAL institucional de la Colección Boliviana d
   <div class="panel">
     <div class="panel-name">Animales Terrestres</div>
     <!-- Panel content -->
-    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1P1mPgjQIqm_O_fia3k6bliDZeRSSZCbm&amp;usp#list" width="100%" height="400" frameborder="0"></iframe></p>
+    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1XEWxiHoaIlPUjPWiDvkuDaycNIE7XqjM&amp;usp#list" width="100%" height="400" frameborder="0"></iframe></p>
   </div>
   <div class="panel">
     <div class="panel-name">Animales arborícolas</div>
     <!-- Panel content -->
-    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1kkWfK1zrQ8ockcLX5_q9HcfL5fTf1Hji&amp;usp#list" width="100%" height="500" frameborder="0"></iframe></p>
+    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1E4at8c129DUb4pjQNGbTyR03FLuK0z5e&amp;usp#list" width="100%" height="500" frameborder="0"></iframe></p>
   </div>
   <div class="panel">
     <div class="panel-name">Animales acuáticos</div>
     <!-- Panel content -->
-    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1Yc-hBxTYh_DS-uvqopwQF7KCWYBRQiVQ&amp;usp#list" width="100%" height="500" frameborder="0"></iframe></p>
+    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1d7tslbtxsF5FivU4u6iLvuv3Y0s4ddPY&amp;usp#list" width="100%" height="500" frameborder="0"></iframe></p>
   </div>
   <div class="panel">
     <div class="panel-name">Anexos</div>
     <!-- Panel content -->
-    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1ag81mHF3fA2SZJeoQExket8Mt3Yp9Gbo&amp;usp#list" width="100%" height="300" frameborder="0"></iframe></p>
+    <p><iframe src="https://drive.google.com/embeddedfolderview?id=1pA3K4HDYLaI80Gi9HZpMHSGhWgB0YHC0&amp;usp#list" width="100%" height="300" frameborder="0"></iframe></p>
   </div>
 </div>
 
