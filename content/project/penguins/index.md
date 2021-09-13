@@ -68,4 +68,5 @@ Tamaño páginas:  carta    (27,94   cm.  x   21,59 cm.)
 No. de páginas:  630 páginas 
 
 No. de dibujos incluidos en las pag. y otros grandes:   340
+
 ------------------------------------------------------------------------
