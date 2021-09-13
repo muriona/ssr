@@ -51,4 +51,27 @@ Este libro digital es un compendio (síntesis) de la Enciclopedia “Sexualidad 
   </div>
 </div>
 
+
+### Edición 
+
+Ing. Mauricio Uriona Maldonado, Ing. Peter Maldonado Fernandez, Ing. Luiz AlbertoTaja Maldonado. 
+
+ 
+
+### Contactos  
+
+Correo  electrónico:    gracielaruthmaldonado@hotmail.com   --   mauricio.uriona@gmail.com 
+
+Teléfono:  2-2445624   --  La Paz   --  Estado Plurinacional de Bolivia 
+
+ 
+
+### Detalles 
+
+Tamaño páginas:  carta    (27,94   cm.  x   21,59 cm.) 
+
+No. de páginas:  1.340 páginas 
+
+No. de dibujos incluidos en las pag. y otros grandes:   850
+
 ------------------------------------------------------------------------
